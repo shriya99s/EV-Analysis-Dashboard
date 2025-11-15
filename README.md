@@ -22,4 +22,5 @@ Real-Time Insights: Dashboard refresh allows up-to-date analysis (if connected t
 Data Storytelling: Combines visuals and insights to help users understand market trends and performance.
 Custom Report Themes: Consistent brand colors/icons enhance readability and aesthetics.
 Performance Optimized: Designed for fast rendering and smooth navigation.
-6. ScreenShot: 
+6. ScreenShot: (https://github.com/shriya99s/EV-Analysis-Dashboard/blob/main/EV%20DASHBOARD%20SNAPSHOT.png)
+..........................................................................................................
